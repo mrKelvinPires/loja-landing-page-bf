@@ -41,7 +41,7 @@
 }
     
 #font-span{
-    margin: 13.7rem;
+        margin: 6.7rem;
     color: #000000;
 }
 
@@ -58,6 +58,7 @@
 #input-border-2{
     border-radius: 1.25rem;
     padding: 10px 3.5rem 10px 3.5rem;
+    font-size: unset;
 }
 
 .button{
@@ -81,7 +82,7 @@
     border-radius: 1.25rem;
     padding: 1rem 15rem 0 0.5rem;
     font-size: unset;
-    text-align: center;
+    text-align: initial;
 }
 
 
@@ -90,7 +91,7 @@
     border-radius: 1.25rem;
     padding: 1rem 15rem 0 0.5rem;
     font-size: unset;
-    text-align: center;
+    text-align: initial;
 }
 
 /* ========== */
