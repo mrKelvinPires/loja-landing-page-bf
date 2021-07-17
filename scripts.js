@@ -1,5 +1,6 @@
 let recebeDados = null;
 
 function EnviaDados(){
-alert("Script funcionando...");
+    let nome = document.querySelector("#nome").value
+    alert(`Obrigado ${nome}! Recebemos seus dados.`)
 }

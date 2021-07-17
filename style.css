@@ -25,13 +25,14 @@
 }
 
 .align-span{
-    max-width: 24rem;
-    margin: 12rem auto;
+    max-width: 54rem;
+    margin: 20rem auto;
     font-family: Roboto;
-    text-align: left;
     background: #1d9174dc;
     border-radius: 1rem;
-    
+    padding-top: 19px;
+    padding-bottom: 12px;
+    font-size: 32px;    
 }
 
 .container-input{
@@ -40,12 +41,12 @@
 }
     
 #font-span{
-    margin: 3.7rem;
+    margin: 13.7rem;
     color: #000000;
 }
 
 #margin-span{
-    margin: 1rem auto;
+    margin: 3rem auto;
 }
 
 #input-border{
@@ -55,8 +56,8 @@
 }
 
 #input-border-2{
-    border-radius: .25rem;
-    padding: 0 .5rem 0 .5rem;
+    border-radius: 1.25rem;
+    padding: 10px 3.5rem 10px 3.5rem;
 }
 
 .button{
@@ -74,6 +75,16 @@
 
 #h3{
     margin-top: -1rem;
+}
+
+#nome{
+    border-radius: 1.25rem;
+    padding: 1rem 15rem 0 0.5rem;
+}
+
+#email{
+    border-radius: 1.25rem;
+    padding: 1rem 15rem 0 0.5rem;
 }
 
 /* ========== */
