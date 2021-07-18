@@ -82,4 +82,9 @@ html{
     border-radius: 1.25rem;
     padding: 1rem 15rem 0 0.5rem;
     font-size: unset;
+    
+}
+
+::placeholder{
+color: aqua;
 }
