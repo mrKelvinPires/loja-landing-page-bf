@@ -4,6 +4,10 @@ body{
     background-color: #d5d6d196;
 }
 
+ul{
+    margin: 0 auto;
+}
+
 #menu-principal a {
     color: #ffffff;
     font-weight: 500;
