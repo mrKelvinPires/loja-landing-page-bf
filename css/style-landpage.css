@@ -74,17 +74,20 @@ html{
 
 #nome{
     border-radius: 1.25rem;
-    padding: 1rem 15rem 0 0.5rem;
     font-size: unset;
+    width: 95%;
+    text-align: center;
 }
 
 #email{
     border-radius: 1.25rem;
-    padding: 1rem 15rem 0 0.5rem;
     font-size: unset;
+    width: 95%;
+    text-align: center;
     
 }
 
 ::placeholder{
-color: aqua;
+    color: aqua;
 }
+
