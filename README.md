@@ -1,6 +1,6 @@
-## Hiring Coders #2
+# Hiring Coders #2
 
-# Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
+## Desafio #1: Ecommerce - Como colocar uma loja online? Site Oficial / Landing page
 
 Para visualizar a Página Home clique [aqui.](https://mrkelvinpires.github.io/loja-landing-page-bf/)
 
