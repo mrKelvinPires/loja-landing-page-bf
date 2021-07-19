@@ -4,18 +4,22 @@ body{
     background-color: #d5d6d196;
 }
 
+h3{
+    text-align: center ;
+}
+
 ul{
     margin: 0 auto;
 }
 
 #menu-principal a {
     color: #ffffff;
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 620;
+    font-size: 17px;
     background: #ff0823;
     text-align: center;
     border-radius: 1rem;
-    width: 7rem;
+    width: 7.5rem;
     margin: 1rem 1rem;
 }
 
@@ -36,7 +40,7 @@ ul{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #d5d6d1;
     flex-basis: 20%;
-    margin: 30px;
+    margin: 12px 30px;
 }
 
 div {
@@ -87,6 +91,22 @@ div {
 }
 
 @media (max-width: 700px){
+
+    .navbar {
+        position: fixed;
+     }
+
+     .card {
+        margin-left: 8rem;
+    }
+
+    #menu-principal a {
+        font-size: 10px;
+        width: 5rem;
+        margin: .25rem;
+        font-weight: 1000;
+    }
+
     .button {
         border-radius: 30px;
     }
