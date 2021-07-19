@@ -41,8 +41,7 @@ html{
 
 #margin-span{
     margin: 3rem 1.45rem;
-    color: #011529;
-    
+    color: #011529;  
 }
 
 #input-border{
@@ -84,7 +83,6 @@ html{
     font-size: unset;
     width: 95%;
     text-align: center;
-    
 }
 
 ::placeholder{
