@@ -9,7 +9,7 @@ function EnviaDados() {
 
     alert(`Obrigado ${nome}! Recebemos seus dados.`)
 
-    window.location.href = "https://mrkelvinpires.github.io/loja-landing-page-bf/";
+    window.location.href = "https://mrkelvinpires.github.io/loja-landing-page-bf/index.html";
 }
 
 function AddCar() {
