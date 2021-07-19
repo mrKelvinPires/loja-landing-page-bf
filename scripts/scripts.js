@@ -8,6 +8,8 @@ function EnviaDados() {
     localStorage.setItem("dadosCliente", dadosCliente);
 
     alert(`Obrigado ${nome}! Recebemos seus dados.`)
+
+    window.location.href = "../index.html";
 }
 
 function AddCar() {
