@@ -9,7 +9,7 @@ function EnviaDados() {
 
     alert(`Obrigado ${nome}! Recebemos seus dados.`)
 
-    window.location.href = "../index.html";
+    window.location.href = "../loja-landing-page-bf/index.html";
 }
 
 function AddCar() {
