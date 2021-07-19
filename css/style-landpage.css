@@ -99,12 +99,11 @@ html{
     }
 
     .align-span{
-        font-size: 25px;
+        font-size: 27px;
         margin: auto;
-        width: 32rem auto;
     }
     html{
         width: 44rem;
-        margin: 1rem auto;
+        margin: 0.70rem auto;
     }
 }
