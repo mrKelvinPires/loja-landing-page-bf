@@ -92,7 +92,7 @@ html{
 @media (max-width: 700px){
     #body-landpage{
         background-image: url('../components/img-bf3.jpg');
-        margin: 33rem auto;
+        margin: 34rem auto;
         background-size: 43rem 34rem;
         background-position: top;
         margin-bottom: 0;
@@ -100,11 +100,11 @@ html{
 
     .align-span{
         font-size: 25px;
-        margin: 1rem auto;
-        width: 30rem auto;
+        margin: auto;
+        width: 32rem auto;
     }
     html{
-        margin: 3rem auto;
-        width: auto;
+        width: 45rem;
+        margin: 1rem auto;
     }
 }
